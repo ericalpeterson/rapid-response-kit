@@ -11,7 +11,7 @@ except:
       PUSHER_APP_ID = os.environ['PUSHER_APP_ID']
       PUSHER_KEY = os.environ['PUSHER_KEY']
       PUSHER_SECRET = os.environ['PUSHER_SECRET']
-      FIREBASE_URL = os.environ['Application ID']
-      FIREBASE_SECRET = os.environ['REST API key']
+      FIREBASE_URL = os.environ['https://westpa-project.firebaseio.com/']
+      FIREBASE_SECRET = os.environ['5QIIasK30i9KtI3sxYQD4reOH4QmWbqY9knZiNtU']
     except:
         pass
